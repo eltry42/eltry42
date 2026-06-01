@@ -2,7 +2,7 @@
 
 I'm Eldridge, a software developer with a strong interest in backend systems, distributed infrastructure, and databases.
 
-I enjoy building reliable, scalable services, from designing APIs and message-driven pipelines to working with systems that handle real-time data. Outside of backend work, I've also built a few blockchain projects and mobile apps.
+I enjoy building reliable, scalable services, from designing APIs and message driven pipelines to working with systems that handle real time data. Outside of backend work, I've also worked on a few blockchain projects and mobile apps.
 
 ## Here are some of my projects:
 
@@ -11,7 +11,3 @@ I enjoy building reliable, scalable services, from designing APIs and message-dr
 3. [BonkFun Bundler & Volume Bot](https://github.com/eltry42/Blockchain-Bundler-and-Volume-Bot): On-chain bundler and volume bot built in TypeScript using Jito for atomic transaction execution
 4. [FoodFetch](https://github.com/eltry42/FoodFetch-Public-): Mobile app for discovering nearby restaurants and food courts through a card-swiping interface
 5. [WBGT Telegram Bot](https://github.com/eltry42/WBGT-Telegram-Bot-): Python bot that scrapes and delivers hourly Wet Bulb Globe Temperature readings via Telegram
-
-## Links
-
-1. [LinkedIn](https://www.linkedin.com/in/eldridgeng/)
