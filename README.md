@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm a software developer with a strong interest in backend systems, distributed infrastructure, and databases.
+I'm Eldridge, a software developer with a strong interest in backend systems, distributed infrastructure, and databases.
 
 I enjoy building reliable, scalable services, from designing APIs and message driven pipelines to working with systems that handle real time data. Outside of backend work, I've also worked on a few blockchain projects and mobile apps.
 
