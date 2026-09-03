@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Eldridge, a software developer with a strong interest in financial markets, backend systems and distributed infrastructure.
+I'm Eldridge, a software developer with a strong interest in financial markets, backend data systems and distributed infrastructure.
 
 I enjoy building reliable, scalable services, from designing APIs and message driven pipelines to working with critical systems that handle real time data. Outside of backend work, I've also worked on a few blockchain trading projects.
 
